@@ -1,0 +1,4572 @@
+FactionRole = [
+		{
+			Role = Role_HalfTongue
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_WeaponSmith
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = DLC3_Architect
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_Duelist
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_LimpLeg
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Slaver
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Serpent
+			NumUses = 0
+			WeightAdjustment = 0.500000
+		}
+		{
+			Role = Role_Slayer
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_GrogBurner
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_GraveMaker
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Defender
+			NumUses = 0
+			WeightAdjustment = 1.900000
+		}
+		{
+			Role = Role_CaveBorn
+			NumUses = 0
+			WeightAdjustment = 0.300000
+		}
+		{
+			Role = Role_NeckSnapper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Breaker
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_Stench
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_RatHunter
+			NumUses = 0
+			WeightAdjustment = 0.200000
+		}
+		{
+			Role = NemesisForge_Role_SkullSplitter
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_BoneCracker
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_CaveRat
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_BrawlMaster
+			NumUses = 1
+			WeightAdjustment = 1.100000
+		}
+		{
+			Role = Role_Tender
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_Fool
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_BattleHardened
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Meat
+			NumUses = 0
+			WeightAdjustment = 3.100000
+		}
+		{
+			Role = Role_BurningWings
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Timid
+			NumUses = 0
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_WeaponMaster
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_OfTheEye
+			NumUses = 0
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = Role_Arsonist
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_FoulSpawn
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Warden
+			NumUses = 2
+			WeightAdjustment = 9.600000
+		}
+		{
+			Role = NemesisForge_Role_Slaughterer
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = NemesisForge_Role_LiceHead
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Protector
+			NumUses = 0
+			WeightAdjustment = 16.700001
+		}
+		{
+			Role = NemesisForge_Role_FleshRot
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Bard
+			NumUses = 0
+			WeightAdjustment = 3.400000
+		}
+		{
+			Role = DLC3_GC_Island_00
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Island_01
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Island_02
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Island_03
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Island_04
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Island_05
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_IronSkull
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Blue
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Bold
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Bore
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_ManEater
+			NumUses = 0
+			WeightAdjustment = 4.100000
+		}
+		{
+			Role = Role_Stitch
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Molten
+			NumUses = 0
+			WeightAdjustment = 8.100000
+		}
+		{
+			Role = Role_Flogger
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_TrophyMaker
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Mystic
+			NumUses = 1
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_RockCrusher
+			NumUses = 0
+			WeightAdjustment = 3.400000
+		}
+		{
+			Role = Role_Moaner
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = _Role_EmptyString
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Deranged
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_HisEyesOpen
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Fearsome
+			NumUses = 1
+			WeightAdjustment = 4.400000
+		}
+		{
+			Role = Role_DeadKiller
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_GraugSlayer
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_QuarterMaster
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Branded
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Brander
+			NumUses = 1
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_Scorpion
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Giant
+			NumUses = 0
+			WeightAdjustment = 14.000000
+		}
+		{
+			Role = Role_FlameOfWar
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_PainSeeker
+			NumUses = 0
+			WeightAdjustment = 16.100000
+		}
+		{
+			Role = Role_Butcher
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Immovable
+			NumUses = 0
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = Role_WarBorn
+			NumUses = 0
+			WeightAdjustment = 7.700000
+		}
+		{
+			Role = Role_JungleRot
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Obvious
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Coward
+			NumUses = 0
+			WeightAdjustment = 14.000000
+		}
+		{
+			Role = Role_Suspicious
+			NumUses = 1
+			WeightAdjustment = 7.000000
+		}
+		{
+			Role = Role_Lithlad
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = NemesisForge_Role_Small
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = D4OAS_Role_Warden
+			NumUses = 0
+			WeightAdjustment = 9.600000
+		}
+		{
+			Role = Role_RazorJaw
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_WhiteEye
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Tricky
+			NumUses = 1
+			WeightAdjustment = 1.100000
+		}
+		{
+			Role = Role_Bloodthirsty
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Disgusting
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_MeatHoarder
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_OneEye
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_SkinFlayer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Blessed
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Uncatchable
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_Weak
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Harbinger
+			NumUses = 0
+			WeightAdjustment = 8.400000
+		}
+		{
+			Role = Role_Maggot
+			NumUses = 0
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = NemesisForge_Role_Biter
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Blackguard
+			NumUses = 0
+			WeightAdjustment = 16.700001
+		}
+		{
+			Role = Role_BoneSnapper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_BlackBlade
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Sadistic
+			NumUses = 0
+			WeightAdjustment = 4.200000
+		}
+		{
+			Role = Role_BagHead
+			NumUses = 0
+			WeightAdjustment = 35.000000
+		}
+		{
+			Role = NemesisForge_Role_Grinder
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_MetalBeater
+			NumUses = 0
+			WeightAdjustment = 2.700000
+		}
+		{
+			Role = Role_EvilEye
+			NumUses = 0
+			WeightAdjustment = 23.799999
+		}
+		{
+			Role = Role_ChampionGorgoroth
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Harrow
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Choker
+			NumUses = 1
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_Seer
+			NumUses = 2
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Sick
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Chosen
+			NumUses = 0
+			WeightAdjustment = 7.000000
+		}
+		{
+			Role = Role_Torch
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_BladeMaster_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Tower
+			NumUses = 0
+			WeightAdjustment = 5.600000
+		}
+		{
+			Role = NemesisForge_Role_Destroyer
+			NumUses = 0
+			WeightAdjustment = 11.200000
+		}
+		{
+			Role = Role_Knower
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_OrcHunter
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_Digger
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Hand
+			NumUses = 0
+			WeightAdjustment = 2.900000
+		}
+		{
+			Role = Role_Hook
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Singer
+			NumUses = 0
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_Heartless
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Blight
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_ElfSlayer
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_Watcher
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Brazen
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_RockSkull
+			NumUses = 1
+			WeightAdjustment = 7.600000
+		}
+		{
+			Role = Role_Militant
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Monster
+			NumUses = 0
+			WeightAdjustment = 7.300000
+		}
+		{
+			Role = Role_Carver
+			NumUses = 0
+			WeightAdjustment = 4.600000
+		}
+		{
+			Role = Role_Marauder
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Dam
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_Gab
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Sickly
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Mad
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Devourer
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Complainer
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_WhoDevours
+			NumUses = 0
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_Pit
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Rat
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Red
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Sea
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Shy
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = NemesisForge_Role_PainLover
+			NumUses = 0
+			WeightAdjustment = 5.800000
+		}
+		{
+			Role = Role_RangerKiller
+			NumUses = 1
+			WeightAdjustment = 22.900000
+		}
+		{
+			Role = Role_Skinner
+			NumUses = 0
+			WeightAdjustment = 3.600000
+		}
+		{
+			Role = NemesisForge_Role_Champion
+			NumUses = 0
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_Shield
+			NumUses = 0
+			WeightAdjustment = 1.600000
+		}
+		{
+			Role = Role_MaddestOne
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Enforcer
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Shiver
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = NemesisForge_Role_FleshGlutton
+			NumUses = 0
+			WeightAdjustment = 1.600000
+		}
+		{
+			Role = Role_HeartEater
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_WarHulk
+			NumUses = 0
+			WeightAdjustment = 5.100000
+		}
+		{
+			Role = DLC3_Thrall
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Regal
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_GuardMaster
+			NumUses = 0
+			WeightAdjustment = 2.000000
+		}
+		{
+			Role = Role_Painted
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Deathless
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_BloodDripper
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_SlashFace
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_TakerOfHeads
+			NumUses = 0
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = Role_BoneShaker
+			NumUses = 0
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = Role_Inflamed
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Gorelord
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_LifeDrinker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = DLC4_Role_Overlord
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Loyal_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Endless
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = DLC3_ElfKiller
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_FatHead
+			NumUses = 0
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_SlaveLover
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_CorpseEater
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_WhoFlees
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Glutton
+			NumUses = 1
+			WeightAdjustment = 24.500000
+		}
+		{
+			Role = Role_SkullCollector
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_GrogMaker
+			NumUses = 1
+			WeightAdjustment = 22.700001
+		}
+		{
+			Role = Role_EarthSalter
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Poisoned
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Poisoner
+			NumUses = 0
+			WeightAdjustment = 0.500000
+		}
+		{
+			Role = Role_BrokenShield
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Gambler
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = NemesisForge_Role_GrogBurner
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = DLC3_Slayer
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_Runt
+			NumUses = 0
+			WeightAdjustment = 1.900000
+		}
+		{
+			Role = Role_PlagueBringer
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Chunky
+			NumUses = 0
+			WeightAdjustment = 10.400000
+		}
+		{
+			Role = Role_Legend
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Unyielding
+			NumUses = 0
+			WeightAdjustment = 3.700000
+		}
+		{
+			Role = NemesisForge_Role_SwordMaster
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Itchy
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Amputator
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_GutRipper
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Magnificent
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Fanatical
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Killer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Betrayed
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Betrayer
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_HalflingLover
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Hammer
+			NumUses = 1
+			WeightAdjustment = 1.100000
+		}
+		{
+			Role = DLC3_Overlord_Fanatical_Dead
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Giggles
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_MetalBeard
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Punisher
+			NumUses = 1
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Bloody
+			NumUses = 0
+			WeightAdjustment = 4.400000
+		}
+		{
+			Role = NemesisForge_Role_AllEater
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Weakest
+			NumUses = 0
+			WeightAdjustment = 1.900000
+		}
+		{
+			Role = Role_Indomitable
+			NumUses = 0
+			WeightAdjustment = 3.900000
+		}
+		{
+			Role = SQ_ZogRoleDef
+			NumUses = 6
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_GoldPathAct1_Explosions
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Chop
+			NumUses = 0
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_Spike
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Claw
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Cook
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Sprog
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Crow
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_HeadLopper
+			NumUses = 0
+			WeightAdjustment = 1.300000
+		}
+		{
+			Role = Role_Enraged
+			NumUses = 0
+			WeightAdjustment = 4.700000
+		}
+		{
+			Role = Role_Friendly
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Surgeon
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Steward
+			NumUses = 0
+			WeightAdjustment = 7.000000
+		}
+		{
+			Role = Role_Legendary
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_PotLicker
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Tyrant
+			NumUses = 0
+			WeightAdjustment = 8.700000
+		}
+		{
+			Role = Role_Filthy
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Hatchet
+			NumUses = 0
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_Mangler
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_Defaced
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Demolisher
+			NumUses = 0
+			WeightAdjustment = 7.400000
+		}
+		{
+			Role = Role_Black
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Blast
+			NumUses = 0
+			WeightAdjustment = 22.400000
+		}
+		{
+			Role = Role_GoldPathAct1_Timid
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_ManStalker
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Slavemaster
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_SpiderHawk
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_BoneLicker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Blind
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Smuggler
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Shredder
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_LumpHead
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Banished
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Block
+			NumUses = 0
+			WeightAdjustment = 3.400000
+		}
+		{
+			Role = Role_Blood
+			NumUses = 0
+			WeightAdjustment = 5.000000
+		}
+		{
+			Role = Role_LongTooth
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_BloodLover
+			NumUses = 0
+			WeightAdjustment = 2.700000
+		}
+		{
+			Role = Role_SkinPeeler
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Assassin
+			NumUses = 0
+			WeightAdjustment = 3.600000
+		}
+		{
+			Role = Role_Bloodpike
+			NumUses = 0
+			WeightAdjustment = 3.600000
+		}
+		{
+			Role = Role_VatKeeper
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Beggar
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_GhulKeeper
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Slaughterer
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_MeatHooks
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = NemesisForge_Role_EverWounded
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_OrcSlayer
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_BloodFlood
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = NemesisForge_Role_LockJaw
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_ThroatSlasher
+			NumUses = 0
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_Gorehound
+			NumUses = 0
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = Role_WarBringer
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Impaler
+			NumUses = 1
+			WeightAdjustment = 3.800000
+		}
+		{
+			Role = Role_KingSlayer
+			NumUses = 0
+			WeightAdjustment = 0.500000
+		}
+		{
+			Role = Role_Knife
+			NumUses = 1
+			WeightAdjustment = 1.600000
+		}
+		{
+			Role = Role_Expounder
+			NumUses = 0
+			WeightAdjustment = 16.700001
+		}
+		{
+			Role = NemesisForge_Role_BloodHand
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Master
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Envenomed
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = NemesisForge_Role_Sawbones
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Duelist
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_DungeonBreaker
+			NumUses = 0
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_SlipperyOne
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Disgusting
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Kinsman
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Tracker
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_OtherTwin
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_BoneCollector
+			NumUses = 1
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_TrollBorn
+			NumUses = 1
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_PureBlood
+			NumUses = 0
+			WeightAdjustment = 6.300000
+		}
+		{
+			Role = Role_WraithTouched
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_BlackHeart
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_RunnyBowels
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_CaragorTrainer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Jitters
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Desolation
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_BrightEyes
+			NumUses = 2
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Reaper
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_Bleeder
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = DLC3_Flint
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_HornBlower
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Tiny
+			NumUses = 0
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = Role_SkullLopper
+			NumUses = 1
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_EagleEye
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Scourge
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = NemesisForge_Role_GraugCatcher
+			NumUses = 0
+			WeightAdjustment = 1.000000
+		}
+		{
+			Role = Role_Haunted
+			NumUses = 1
+			WeightAdjustment = 5.000000
+		}
+		{
+			Role = Role_ManBreaker
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_MeatHoarder
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_RatLord
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Deathmonger
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_DirtFeeder
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_BrainDamaged
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Prickler
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Elusive
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_EyeGouger
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Steady
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Skullgrinder
+			NumUses = 0
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_IronMount
+			NumUses = 2
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_Stench
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_TowerGuard
+			NumUses = 9
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_NightBringer
+			NumUses = 2
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = NemesisForge_Role_Forsworn
+			NumUses = 0
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_Brave
+			NumUses = 0
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = Role_Merciless
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Ripper_Daz
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_CorpseGrinder
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Outlaw
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = DLC3_NazgulTwins
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Brown
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Crafty
+			NumUses = 1
+			WeightAdjustment = 7.800000
+		}
+		{
+			Role = Role_MapKeeper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Brute
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_CaragorTamer
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_Caves
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Mountain
+			NumUses = 1
+			WeightAdjustment = 8.100000
+		}
+		{
+			Role = Role_PitFighter
+			NumUses = 0
+			WeightAdjustment = 11.900000
+		}
+		{
+			Role = Role_Unstoppable
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = GP_Car2_Acolyte
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Handsome
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_DungCollector
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_LiceHead
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_AshSkin
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_FleshRot
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Soldier
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Wainrider
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Drinker
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Devout
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_PowerHungry
+			NumUses = 2
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_IronFist
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_BoneShaker
+			NumUses = 0
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = NemesisForge_Role_Fearful
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_SkullCracker
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_DeathBone
+			NumUses = 1
+			WeightAdjustment = 8.400000
+		}
+		{
+			Role = NemesisForge_Role_Thirsty
+			NumUses = 0
+			WeightAdjustment = 6.300000
+		}
+		{
+			Role = Role_Trainer
+			NumUses = 0
+			WeightAdjustment = 7.000000
+		}
+		{
+			Role = NemesisForge_Role_BloodLicker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Traitor
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Proud
+			NumUses = 0
+			WeightAdjustment = 16.700001
+		}
+		{
+			Role = Role_Abused
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Maniac
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_FleshRipper
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_BeastButcher
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Forgiving
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Exterminator
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = D4RES_Role_Ringmaster
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_BerserkerMaster
+			NumUses = 0
+			WeightAdjustment = 4.900000
+		}
+		{
+			Role = Role_Lurker
+			NumUses = 1
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Grinder
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Cannibal
+			NumUses = 2
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Slasher
+			NumUses = 0
+			WeightAdjustment = 1.000000
+		}
+		{
+			Role = Role_KinSlayer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Prankster
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Furious
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Brilliant
+			NumUses = 0
+			WeightAdjustment = 10.000000
+		}
+		{
+			Role = Role_Wrestler
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Ogre
+			NumUses = 0
+			WeightAdjustment = 14.400000
+		}
+		{
+			Role = Role_BattleMaster
+			NumUses = 0
+			WeightAdjustment = 7.800000
+		}
+		{
+			Role = Role_Crazy
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_BoneCrusher
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_CaragorFang
+			NumUses = 2
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Cruel
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Crush
+			NumUses = 2
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = NemesisForge_Role_Warmonger
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Hacker
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Faithful
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Watcher
+			NumUses = 2
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Dark
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_Tinder_Deranged
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Dead
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Herald
+			NumUses = 0
+			WeightAdjustment = 8.400000
+		}
+		{
+			Role = Role_DeadEye
+			NumUses = 1
+			WeightAdjustment = 77.000000
+		}
+		{
+			Role = Role_DisciplineMaster
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_SandWyrm
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_BeastTamer
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Avalanche
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_WhiteHand
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Stonefist
+			NumUses = 0
+			WeightAdjustment = 3.900000
+		}
+		{
+			Role = Role_Tortured
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Torturer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_MeatGrinder
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Plains
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_SwordMaster
+			NumUses = 1
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_CutThroat
+			NumUses = 1
+			WeightAdjustment = 1.000000
+		}
+		{
+			Role = Role_Drowned
+			NumUses = 1
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_GrogHoarder
+			NumUses = 1
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Gutless
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_FlameEater
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Rotbeast
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Lookout
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_OrcSlayer_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Panderer
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Goodfink
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_UglyFace
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Burned
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_GoldPathAct1_FightPit
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Damned
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Nightmare
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_BloodLover
+			NumUses = 0
+			WeightAdjustment = 2.700000
+		}
+		{
+			Role = Role_FleshLover
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Taunter
+			NumUses = 0
+			WeightAdjustment = 1.100000
+		}
+		{
+			Role = Role_GoldPathAct1_Beastmaster
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Guardian
+			NumUses = 0
+			WeightAdjustment = 1.000000
+		}
+		{
+			Role = Role_Store_Vender_Alt
+			NumUses = 1
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_ThinBones
+			NumUses = 1
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_BladeMaster
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Raven
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Indebted
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Vicious
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Champion
+			NumUses = 2
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_FatHead
+			NumUses = 0
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = GP_G3_TentOrc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Warrior_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Tearful
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_FireBrander
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_DreamEater
+			NumUses = 1
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_Painless
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = GSM3010_Orc_Grunt
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = CommanderOlog
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = NemesisForge_Role_KingSlayer
+			NumUses = 0
+			WeightAdjustment = 0.500000
+		}
+		{
+			Role = ZogOrc
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Berserker
+			NumUses = 0
+			WeightAdjustment = 56.000000
+		}
+		{
+			Role = NemesisForge_Role_Pit
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_MountainShaker
+			NumUses = 2
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = Role_Judge
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_LimbRipper
+			NumUses = 1
+			WeightAdjustment = 7.000000
+		}
+		{
+			Role = Role_Elder
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = NemesisForge_Role_BloodHunter
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_DeathBlade
+			NumUses = 0
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = Role_Rotten
+			NumUses = 0
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = Role_Wanderer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Coward_Ratbag
+			NumUses = 0
+			WeightAdjustment = 308.000000
+		}
+		{
+			Role = Role_Ravager
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Survivor_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = GP_WitchKing
+			NumUses = 6
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Flayer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_EverWounded
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Drunk
+			NumUses = 1
+			WeightAdjustment = 5.700000
+		}
+		{
+			Role = Role_Corruptor
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_HeadChopper
+			NumUses = 1
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_FearMonger
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_GhulHunter
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_WhoFlees
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_Cook
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Jaws
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Immortal
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Sweet
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Swift
+			NumUses = 2
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Undaunted
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_IceMountain
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = NemesisForge_Role_FleshRender
+			NumUses = 0
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = Role_Agonizer
+			NumUses = 0
+			WeightAdjustment = 999.000000
+		}
+		{
+			Role = Role_BlackGates
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_LiterateOne
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Gentle
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_DrakeKiller
+			NumUses = 0
+			WeightAdjustment = 2.100000
+		}
+		{
+			Role = Role_BarrelScraper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Whisperer
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_FleshBurner
+			NumUses = 0
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = Role_Merciful
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_MaggotLord
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Slave
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_RunnyBowels
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Surgeon
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_FlameMonger
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = DLC3_Tinder
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_IronArm
+			NumUses = 1
+			WeightAdjustment = 0.300000
+		}
+		{
+			Role = Role_Catcher
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Sands
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_AllEater
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_WastefulHunter
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_WormLicker
+			NumUses = 0
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = NemesisForge_Role_PitFighter
+			NumUses = 0
+			WeightAdjustment = 11.900000
+		}
+		{
+			Role = Role_Dragon
+			NumUses = 0
+			WeightAdjustment = 7.400000
+		}
+		{
+			Role = Role_CorpseLicker
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Lover
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Angry
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Loyal
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_AncientOne
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Bloodlust
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Venomous
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = CIN_BruzBranded
+			NumUses = 1
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Anvil
+			NumUses = 1
+			WeightAdjustment = 9.800000
+		}
+		{
+			Role = Role_LockJaw
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_LastWord
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Spiteful
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Welts
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Grizzled
+			NumUses = 0
+			WeightAdjustment = 7.000000
+		}
+		{
+			Role = Role_RainBringer
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_DeepSeer
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = NemesisForge_Role_RawHead
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = DLC3_Overlord_Fanatical
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_FavoredSon
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_ArcherTrainer
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Dismembered
+			NumUses = 1
+			WeightAdjustment = 3.300000
+		}
+		{
+			Role = Role_Tainted
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Murderous
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Outcast
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Blacksmith
+			NumUses = 1
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = Role_Prowler
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = MachineDestroyerOlog
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = NemesisForge_Role_Tiny
+			NumUses = 0
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = Role_Jitters
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_MadEye
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Rugged
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Bleeder
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Hungry
+			NumUses = 0
+			WeightAdjustment = 2.000000
+		}
+		{
+			Role = NemesisForge_Role_Hunter
+			NumUses = 0
+			WeightAdjustment = 23.200001
+		}
+		{
+			Role = Role_Humongous
+			NumUses = 0
+			WeightAdjustment = 14.400000
+		}
+		{
+			Role = Role_Bludger
+			NumUses = 0
+			WeightAdjustment = 7.300000
+		}
+		{
+			Role = GP_Castimir
+			NumUses = 1
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Sawbones
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Path
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_BackBiter
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Pike
+			NumUses = 1
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_Poet
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Puny
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Pure
+			NumUses = 0
+			WeightAdjustment = 6.300000
+		}
+		{
+			Role = Role_Oathbreaker_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_BloodLicker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Rhovanion
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Blizzard
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Diseased
+			NumUses = 1
+			WeightAdjustment = 4.200000
+		}
+		{
+			Role = Role_Humiliator
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Pretender
+			NumUses = 0
+			WeightAdjustment = 6.300000
+		}
+		{
+			Role = Role_Bloated
+			NumUses = 0
+			WeightAdjustment = 2.700000
+		}
+		{
+			Role = Role_StormBringer
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Taker
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_WhoWatches
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Tasty
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_MountainEater
+			NumUses = 0
+			WeightAdjustment = 16.100000
+		}
+		{
+			Role = Role_Deadwood
+			NumUses = 0
+			WeightAdjustment = 14.000000
+		}
+		{
+			Role = Role_CaragorThief
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Chill
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Reckless
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_ShieldMaster
+			NumUses = 0
+			WeightAdjustment = 1.900000
+		}
+		{
+			Role = NemesisForge_Role_Pathetic
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_BladeSharpener
+			NumUses = 1
+			WeightAdjustment = 1.100000
+		}
+		{
+			Role = Role_Inscrutable
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Hurler
+			NumUses = 0
+			WeightAdjustment = 3.400000
+		}
+		{
+			Role = Role_Gluttonous
+			NumUses = 0
+			WeightAdjustment = 14.000000
+		}
+		{
+			Role = Role_BeastSlayer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Machine
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_BlackElm
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_BlackSun
+			NumUses = 0
+			WeightAdjustment = 22.400000
+		}
+		{
+			Role = Role_Pain-Bringer
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Clever
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Lucky
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Dancer
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_GuardianOfMordor
+			NumUses = 0
+			WeightAdjustment = 16.700001
+		}
+		{
+			Role = Role_Gloom
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_QuickBlades
+			NumUses = 1
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_GhulSlayer
+			NumUses = 0
+			WeightAdjustment = 7.100000
+		}
+		{
+			Role = Role_SlaveKeeper
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_GoreTide
+			NumUses = 0
+			WeightAdjustment = 1.100000
+		}
+		{
+			Role = Role_Unclean
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_NamelessOne
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_Wicked
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_BoneCollector
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_StarGazer
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Backstabber
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Forsworn
+			NumUses = 1
+			WeightAdjustment = 4.800000
+		}
+		{
+			Role = Role_Cursed
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_GoldThief
+			NumUses = 0
+			WeightAdjustment = 38.000000
+		}
+		{
+			Role = Role_Swordsmith
+			NumUses = 1
+			WeightAdjustment = 2.000000
+		}
+		{
+			Role = NemesisForge_Role_Spike
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_FleshLump
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Whiner
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Auditor
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_FleshPicker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Fearful
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Skinless
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Thirsty
+			NumUses = 0
+			WeightAdjustment = 6.300000
+		}
+		{
+			Role = NemesisForge_Role_SlashFace
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_FaceEater
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_ForgeClaw
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Forsaken
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_SpearMaster
+			NumUses = 0
+			WeightAdjustment = 1.600000
+		}
+		{
+			Role = Role_Advisor
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Burglar
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Fearless_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_Beastmaster
+			NumUses = 0
+			WeightAdjustment = 4.900000
+		}
+		{
+			Role = NemesisForge_Role_Gorger
+			NumUses = 0
+			WeightAdjustment = 13.300000
+		}
+		{
+			Role = Role_Terrible
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Slasher
+			NumUses = 0
+			WeightAdjustment = 1.000000
+		}
+		{
+			Role = Role_Destroyer
+			NumUses = 0
+			WeightAdjustment = 11.200000
+		}
+		{
+			Role = Role_Unashamed
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Skewer
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_Trusted
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Vile
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Bringer
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_BloodAxe
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Dangerous
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Abandoned
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_CaragorSlayer
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_CorpseGrinder
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_RabbleRouser
+			NumUses = 0
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = NemesisForge_Role_BrainDamaged
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Ravishing
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_ElfSlayer
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_Dark
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Thunderlord
+			NumUses = 1
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_Alchemist
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_BloodStorm
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_FireBrander
+			NumUses = 1
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_Bowmaster
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = NemesisForge_Role_DwarfKiller
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Strong
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Noble
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Amputator
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = NemesisForge_Role_Fanatical
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Taskmaster
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_DungCollector
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_PainLover
+			NumUses = 0
+			WeightAdjustment = 5.800000
+		}
+		{
+			Role = Role_Crippler
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_BloodHunter
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_SkullSplitter
+			NumUses = 1
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_GoldPathAc1_Mormog
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Small
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = NemesisForge_Role_OathBreaker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Defiler
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_OneWord
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Longshot
+			NumUses = 0
+			WeightAdjustment = 4.300000
+		}
+		{
+			Role = F1030E_Orc_Grunt
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Brawler
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_LearnedScribe
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_GiantSlayer
+			NumUses = 0
+			WeightAdjustment = 1.700000
+		}
+		{
+			Role = Role_Scholar
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Great
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = GP_RangerRoleDef
+			NumUses = 2
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Hairy
+			NumUses = 0
+			WeightAdjustment = 6.300000
+		}
+		{
+			Role = Role_Biter
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_GoldPathAct1_Goroth
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Believer
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Dreamer
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_PrisonMaster
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Collector
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_IronSkin
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Shadow
+			NumUses = 1
+			WeightAdjustment = 4.900000
+		}
+		{
+			Role = Role_Shaman
+			NumUses = 1
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Shamed
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_FleshRender
+			NumUses = 0
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = NemesisForge_Role_SkullCracker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = GP_FakeDarkTalionRoleDef
+			NumUses = 1
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Mindless
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_Defender
+			NumUses = 0
+			WeightAdjustment = 1.900000
+		}
+		{
+			Role = Role_Forgetful
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_CaveBorn
+			NumUses = 0
+			WeightAdjustment = 0.300000
+		}
+		{
+			Role = Role_DwarfEater
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Ironhead
+			NumUses = 0
+			WeightAdjustment = 7.000000
+		}
+		{
+			Role = Role_Scorcher
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_BlackThorn
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_SlaveMaker
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_MeatHooks
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_Infernal
+			NumUses = 0
+			WeightAdjustment = 0.200000
+		}
+		{
+			Role = Role_BladeSmith
+			NumUses = 0
+			WeightAdjustment = 1.700000
+		}
+		{
+			Role = Role_NeckRipper
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_BrothersBane
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_UglyFace
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_Thunderhead
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_WrathBreeder
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_Brown
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_RageMind
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_RecordKeeper
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_SkullCrusher
+			NumUses = 0
+			WeightAdjustment = 4.200000
+		}
+		{
+			Role = NemesisForge_Role_LimpLeg
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Tenderizer
+			NumUses = 0
+			WeightAdjustment = 6.900000
+		}
+		{
+			Role = Role_Pathfinder
+			NumUses = 2
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Pinch
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Pickler
+			NumUses = 0
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_Twisted
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = DLC3_GC_Volcano_00
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Volcano_01
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Volcano_02
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Volcano_03
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Volcano_04
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_Volcano_05
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_MtnPass_00
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_MtnPass_01
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_MtnPass_02
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_MtnPass_03
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_MtnPass_04
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_MtnPass_05
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_HornedLord
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Ocker_Baz
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_FrogBlood
+			NumUses = 1
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Ocker_Gaz
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_Jaws
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = DLC3_GC_SnowMtn_00
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_SnowMtn_01
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_SnowMtn_02
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_SnowMtn_03
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_SnowMtn_04
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_GC_SnowMtn_05
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Terror
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = DLC3_Fixer
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Ruinous
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_ChainDriver
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Strangler
+			NumUses = 1
+			WeightAdjustment = 1.600000
+		}
+		{
+			Role = Role_BoneRipper
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Thunderguts
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Stoneskin
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = D4OAS_Role_BattleHardened
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Proud
+			NumUses = 0
+			WeightAdjustment = 16.700001
+		}
+		{
+			Role = Role_PotLicker
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Fool
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Foul
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Tongue
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Coward
+			NumUses = 0
+			WeightAdjustment = 14.000000
+		}
+		{
+			Role = Role_Obsessed
+			NumUses = 1
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_StoneHive
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Massive
+			NumUses = 0
+			WeightAdjustment = 1.300000
+		}
+		{
+			Role = Role_Scavenger
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = NemesisForge_Role_Gluttonous
+			NumUses = 0
+			WeightAdjustment = 14.000000
+		}
+		{
+			Role = DLC3_Sniper
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Executioner
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_LuckyShot
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Armorer
+			NumUses = 1
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_HotTongs
+			NumUses = 0
+			WeightAdjustment = 2.100000
+		}
+		{
+			Role = NemesisForge_Role_Brander
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_Fearless
+			NumUses = 0
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = Role_Unseen
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_FearLord
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Crusher
+			NumUses = 1
+			WeightAdjustment = 2.200000
+		}
+		{
+			Role = NemesisForge_Role_NeckSnapper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Avenger
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_FearEater
+			NumUses = 2
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Warmaster
+			NumUses = 0
+			WeightAdjustment = 1.100000
+		}
+		{
+			Role = GP_G2_PossessedOrc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_BloodHand
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Butcher
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_ManCatcher
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_BloodDrinker
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_RawHead
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_FleshGlutton
+			NumUses = 0
+			WeightAdjustment = 1.600000
+		}
+		{
+			Role = Role_Bootlick
+			NumUses = 0
+			WeightAdjustment = 11.200000
+		}
+		{
+			Role = Role_Corrupt
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_TrophyHunter
+			NumUses = 0
+			WeightAdjustment = 3.600000
+		}
+		{
+			Role = Role_OfTheBeasts
+			NumUses = 0
+			WeightAdjustment = 16.500000
+		}
+		{
+			Role = Role_EarthScorcher
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_PlanMaker
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Poker
+			NumUses = 0
+			WeightAdjustment = 1.700000
+		}
+		{
+			Role = Role_GloryHunter
+			NumUses = 1
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_ScarArtist
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_SkullBow
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Runner
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_GP_Orc3_Chief
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Tailor
+			NumUses = 1
+			WeightAdjustment = 7.100000
+		}
+		{
+			Role = NemesisForge_Role_DeathBone
+			NumUses = 0
+			WeightAdjustment = 8.400000
+		}
+		{
+			Role = Role_Greedy
+			NumUses = 2
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_GutSlurper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_TarkSlayer
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_BarrelScraper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = NemesisForge_Role_Sickly
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Wall
+			NumUses = 1
+			WeightAdjustment = 4.100000
+		}
+		{
+			Role = Role_Wasp
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Weak
+			NumUses = 0
+			WeightAdjustment = 1.800000
+		}
+		{
+			Role = Role_Wild
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Wind
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Wise
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_GoldFang
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_OfTheFlies
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_EaterOfMen
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_HammerFist
+			NumUses = 0
+			WeightAdjustment = 7.100000
+		}
+		{
+			Role = Role_Ravenous
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Faceless
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Wyrm
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Specter
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_DeepDelver
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_WebBreaker
+			NumUses = 1
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Jaded
+			NumUses = 0
+			WeightAdjustment = 9.000000
+		}
+		{
+			Role = Role_Second
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = DLC3_ElfLover
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Smasher
+			NumUses = 1
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_Rhymer
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Lion
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Golden_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Tactician
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Lost
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = NemesisForge_Role_KinSlayer
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Store_Vender
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_Thief
+			NumUses = 0
+			WeightAdjustment = 0.900000
+		}
+		{
+			Role = Role_Third
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_BloodGuzzler
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = NemesisForge_Role_BloodStorm
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Messenger
+			NumUses = 0
+			WeightAdjustment = 0.300000
+		}
+		{
+			Role = Role_Bludgeon
+			NumUses = 0
+			WeightAdjustment = 3.500000
+		}
+		{
+			Role = Role_Brewer
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_MaggotNest
+			NumUses = 0
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = Role_SpearMaster
+			NumUses = 0
+			WeightAdjustment = 1.600000
+		}
+		{
+			Role = NemesisForge_Role_Judge
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_PuppetMaster
+			NumUses = 0
+			WeightAdjustment = 5.300000
+		}
+		{
+			Role = Role_Sneak
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Dopples0
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Dopples1
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Dopples2
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Dopples3
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Dopples4
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Dopples5
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Snowflake
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Beastmaster
+			NumUses = 1
+			WeightAdjustment = 4.900000
+		}
+		{
+			Role = Role_Strong_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_ManHunter
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_HotHead
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Golden
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_HalflingLover
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Motherless
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Hungry
+			NumUses = 0
+			WeightAdjustment = 2.000000
+		}
+		{
+			Role = Role_Hunter
+			NumUses = 0
+			WeightAdjustment = 23.200001
+		}
+		{
+			Role = NemesisForge_Role_Skinner
+			NumUses = 0
+			WeightAdjustment = 3.600000
+		}
+		{
+			Role = Role_Wreck
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Warlock
+			NumUses = 1
+			WeightAdjustment = 9.100000
+		}
+		{
+			Role = Role_Warlord
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_DwarfKiller
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_BattleForged
+			NumUses = 0
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = Role_Survivor
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_ScarHide
+			NumUses = 0
+			WeightAdjustment = 20.000000
+		}
+		{
+			Role = Role_Unkillable_Merc
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_BoneSnapper
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Gravestone
+			NumUses = 0
+			WeightAdjustment = 14.000000
+		}
+		{
+			Role = NemesisForge_Role_Chunky
+			NumUses = 0
+			WeightAdjustment = 10.400000
+		}
+		{
+			Role = Role_Arbiter
+			NumUses = 0
+			WeightAdjustment = 3.200000
+		}
+		{
+			Role = Role_Pathetic
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = NemesisForge_Role_Poisoner
+			NumUses = 0
+			WeightAdjustment = 0.500000
+		}
+		{
+			Role = Role_OathBreaker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_FunnyOne
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Beheader
+			NumUses = 0
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_Bitter
+			NumUses = 0
+			WeightAdjustment = 3.900000
+		}
+		{
+			Role = GP_BruzRoleDef
+			NumUses = 3
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Gravewalker
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_DwarfEater
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Stinger
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Infested
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_ThinBones
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Thinker
+			NumUses = 1
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Unlucky
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Exalted
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = NemesisForge_Role_Bloody
+			NumUses = 0
+			WeightAdjustment = 4.400000
+		}
+		{
+			Role = Role_Reject
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Thunderer
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_BrainBiter
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_GhulLover
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Accursed
+			NumUses = 1
+			WeightAdjustment = 5.600000
+		}
+		{
+			Role = Role_Conqueror
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Ruined
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_EarCollector
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Wicked
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_KeenEye
+			NumUses = 0
+			WeightAdjustment = 3.600000
+		}
+		{
+			Role = Role_HobGoblin
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_HellHawk
+			NumUses = 1
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_Filthy
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Firebelly
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Bloodstoker
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_FireCaller
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Commander
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Rash
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Warmonger
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_SkinChewer
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Whiner
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_RaidLeader
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Rhun
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_TreeKiller
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_StormBringer
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Flowers
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Runt
+			NumUses = 0
+			WeightAdjustment = 1.900000
+		}
+		{
+			Role = Role_DwarfHater
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Thunderhead
+			NumUses = 1
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = Role_Unkillable
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = NemesisForge_Role_LumpHead
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = NemesisForge_Role_Beggar
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_IronWilled
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = FeralTrackerOrc
+			NumUses = 0
+			WeightAdjustment = 1.400000
+		}
+		{
+			Role = NemesisForge_Role_BoneRipper
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_Stout
+			NumUses = 1
+			WeightAdjustment = 1.500000
+		}
+		{
+			Role = NemesisForge_Role_GuardMaster
+			NumUses = 0
+			WeightAdjustment = 2.000000
+		}
+		{
+			Role = Role_Bloodhound
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = NemesisForge_Role_Weakest
+			NumUses = 0
+			WeightAdjustment = 1.900000
+		}
+		{
+			Role = Role_Grim
+			NumUses = 1
+			WeightAdjustment = 0.500000
+		}
+		{
+			Role = Role_Stalker
+			NumUses = 1
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_GraugCatcher
+			NumUses = 1
+			WeightAdjustment = 1.000000
+		}
+		{
+			Role = Role_WormKiller
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Gatekeeper
+			NumUses = 0
+			WeightAdjustment = 1.300000
+		}
+		{
+			Role = Role_Wretch
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Gorger
+			NumUses = 0
+			WeightAdjustment = 13.300000
+		}
+		{
+			Role = NemesisForge_Role_LifeDrinker
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Devoted
+			NumUses = 2
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_BloodAxe
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = D4OAS_Role_TarkSlayer
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_BloodMad
+			NumUses = 1
+			WeightAdjustment = 5.100000
+		}
+		{
+			Role = Role_Unbreakable
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_Warrior
+			NumUses = 1
+			WeightAdjustment = 2.400000
+		}
+		{
+			Role = NemesisForge_Role_Mangler
+			NumUses = 0
+			WeightAdjustment = 2.500000
+		}
+		{
+			Role = Role_Relentless
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_Fierce
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Rogue
+			NumUses = 2
+			WeightAdjustment = 10.700000
+		}
+		{
+			Role = Role_Driver
+			NumUses = 0
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_OfTheSpiders
+			NumUses = 1
+			WeightAdjustment = 2.800000
+		}
+		{
+			Role = Role_Unfortunate
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Beast
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Drooler
+			NumUses = 0
+			WeightAdjustment = 6.000000
+		}
+		{
+			Role = Role_Screamer
+			NumUses = 1
+			WeightAdjustment = 0.400000
+		}
+		{
+			Role = Role_GhulTalker
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_Savage
+			NumUses = 0
+			WeightAdjustment = 0.600000
+		}
+		{
+			Role = Role_BlackTooth
+			NumUses = 1
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Unforgiving
+			NumUses = 0
+			WeightAdjustment = 7.100000
+		}
+		{
+			Role = Role_FastFeet
+			NumUses = 0
+			WeightAdjustment = 0.700000
+		}
+		{
+			Role = Role_Large
+			NumUses = 1
+			WeightAdjustment = 1.200000
+		}
+		{
+			Role = F1030E_Orc_Defender
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_First
+			NumUses = 0
+			WeightAdjustment = 0.000000
+		}
+		{
+			Role = Role_SoothSayer
+			NumUses = 0
+			WeightAdjustment = 0.800000
+		}
+		{
+			Role = Role_HideSkinner
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+		{
+			Role = Role_Untouchable
+			NumUses = 0
+			WeightAdjustment = 99.000000
+		}
+	]

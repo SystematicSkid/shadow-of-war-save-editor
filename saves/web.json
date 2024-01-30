@@ -1,0 +1,4186 @@
+{
+    "Inventory": [
+        {
+            "RandomSeed": "24936580135930",
+            "CharacterModel": "PlayerSkin00",
+            "NextEquipmentID": "313",
+            "": {
+                "": [
+                    {
+                        "SocketType": "Socket_4Armor",
+                        "SocketedItem": "Runegem_White_Resource_3Crafted"
+                    },
+                    {
+                        "SocketType": "Socket_2Dagger",
+                        "SocketedItem": "Runegem_Green_Health_1Base"
+                    },
+                    {
+                        "SocketType": "Socket_3Bow",
+                        "SocketedItem": "Runegem_Green_Health_1Base"
+                    },
+                    {
+                        "SocketType": "Socket_6Ring",
+                        "SocketedItem": "Runegem_Red_Dmg_2Forged"
+                    },
+                    {
+                        "SocketType": "Socket_5Cape",
+                        "SocketedItem": "Runegem_Green_Health_2Forged"
+                    },
+                    {
+                        "SocketType": "Socket_1Sword",
+                        "SocketedItem": "Runegem_Red_Dmg_3Crafted"
+                    }
+                ]
+            }
+        }
+    ],
+    "FactionMgr": [
+        {
+            "TimeStamp": "39",
+            "Resurrected": "47",
+            "": {
+                "": [
+                    {
+                        "Record": "SM_Mon_01",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "SM_Mon_02",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "SM_Mon_03",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "SM_Mon_04",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "SM_Mon_05",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "VO_Mon_01",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "VO_Mon_02",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "VO_Mon_03",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "VO_Mon_04",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "VO_Mon_05",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "VO_Mon_06",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "MP_Mon_01",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "MP_Mon_02",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "MP_Mon_03",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "MP_Mon_04",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "MP_Mon_05",
+                        "IsAlive": "False"
+                    },
+                    {
+                        "Record": "DS_Mon_01",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "DS_Mon_02",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "DS_Mon_03",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "DS_Mon_04",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "DS_Mon_05",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "DS_Mon_06",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "DS_Mon_07",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "IS_Mon_01",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "IS_Mon_02",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "IS_Mon_03",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "IS_Mon_04",
+                        "IsAlive": "True"
+                    },
+                    {
+                        "Record": "IS_Mon_05",
+                        "IsAlive": "True"
+                    }
+                ]
+            }
+        }
+    ],
+    "GameDataVars": [
+        {
+            "": [
+                {
+                    "VariableRecord": "GP_Fake_Barrows_Pickup_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Fake_Barrows_Pickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Fake_Barrows_Pickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "RareTutorialGraug",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DesertTower_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DesertTower_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DesertTower_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DesertTower_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DesertTower_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DesertTower_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_02_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPass_02_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag3_Cap1Valid",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "VolcanoTower_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "VolcanoTower_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "VolcanoTower_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "InvasionModeActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_FortAssault_WarningSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "FM_DEBUG_SpyFailed",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorLootCollected_Volcano",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Bruz_HierarchyTutorial_3_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Island_03_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorOpened_Volcano",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "V_Outpost_BlackIron",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "InvasionFailed",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Shelob3_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "CageAlive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_DiggerIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "ColumnBanners",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCapturedFirstTime_East",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_HireMercTutorial_Hire",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "InvasionVendettaPlayed",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "WarchiefsUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPassFort",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_HDContent",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "OriginFeastGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Desert_05_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_FixerIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC_TribeBlackguard",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_05_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtnFort",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "FinalLighting",
+                    "Type": "Float",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MoneywallActive_Volcano",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "BruzBrothers_BazDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MachineCKilled",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_02_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "I_Outpost_Harbor",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMtn_02_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_ElfLoverIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPassBarrows",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Tribal_LethalSlaveAbuse",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_03_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "OriginChaseGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_FortIsPoisoned",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_Blade",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_09",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_10",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_11",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_12",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_13",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_14",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_15",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_04_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag1LFP_ZoneRevealSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_Volcano_FirstTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Intro_MinasIthilFadeOnLoad",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_01_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_FlintIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_IslandFort_GateSealed",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MP_Outpost_LostHearth",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "FailedFAFirstTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "ResFirstTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC_EditionStandard",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "LoadingPreviousDemoRun",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_IntroComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SM_Outpost_Summit",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "AmbEventIncrement",
+                    "Type": "Float",
+                    "Float": "0.090000",
+                    "Int": "1035489772",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "ShadowWarTutDone",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "I_Gauntlet_Lvl_1",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "I_Gauntlet_Lvl_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "I_Gauntlet_Lvl_3",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "IntroCinemaHasPlayed",
+                    "Type": "Float",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Bruz_Deranged",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MinasIthilMoneywallComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_03_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag3_Cap2Valid",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_TinderIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_SnowMtn_FirstTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_01_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Tribal_MoreSpiders",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AmbEventTokens",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Rescue_Betrayal",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_FlintTinderIsLoyal",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TempLighting",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Tribal_MoreCaragors",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_04_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TowerTriggerChance",
+                    "Type": "Float",
+                    "Float": "0.150000",
+                    "Int": "1041865114",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "iFA_Intro_Spwn",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DefenderAmbushTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "AmbWarVolcano",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag1LFP_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "CageHide",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AllowPres_Obituary",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPass_PlayerOwned",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Carnun3_IceDestroyed_1",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Carnun3_IceDestroyed_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Carnun3_IceDestroyed_3",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpearmenUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "OriginDuelComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Blade1_OptObj_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC_DLC3Active",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_04_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MountedPatrolsUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_ShownRegionUnlock",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Outpost_North",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_ActiveCP01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_ActiveCP02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_ActiveCP03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "VolcanoBarrows",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_06_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_IslandFort_FireTrapDisabled",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_05_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "FAPerfCam_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "FAPerfCam_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_HDLithlad",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_PostFinale_PlayerNeedsTutorial",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_IntroComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_Barrows_Pickup_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_Barrows_Pickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_Barrows_Pickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Finale_MinasIthilFadeOnLoad",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_01_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_HireMercTutorialEnabled",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_03_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_RefInvOrcAlive01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_RefInvOrcAlive02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_RefInvOrcAlive03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC5_SW_Y1_MP_Dialog_Fired",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCapturedFirstTime_West",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_EditionGold",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_EditionGOTY",
+                    "Type": "Float",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_03_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "AmbRareEventChance",
+                    "Type": "Float",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Rescue_Count",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_01_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_BlockOutpostCaptains_NW",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_SwordOfDominion",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "IslandTower_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "IslandTower_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "IslandTower_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MinasIthilBarrows",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPassIntoGraug",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_SerkaQuest",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC5_SW_Y3_SM_Dialog_Fired",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "RavenCinemaHasPlayed",
+                    "Type": "Float",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_OutpostAssaultTutSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_03_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MinasIthil_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCapturedFirstTime_Central",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "FA_UB_Count",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "ArenaSimLevelSet",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "10",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPass_04_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag3_Cap3Valid",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_HDCinematics",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "AmbTokensToReset",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "3",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_Finale_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorLootCollected_MtnPass",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Island_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorLootCollected_Island",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorOpened_MtnPass",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_SniperIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "InvasionConquestActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MachineAKilled",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MIOutpost_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MIOutpost_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MIOutpost_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MIOutpost_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MIOutpost_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_IslandFort_GrogPoisoned",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_01_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Island_05_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "ConquestActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "NavMeshProcessingComplete",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "4",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_DisableCatalysts_IgnoreSummonSpiders",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OlogsAmbushTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_07_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Island_PlayerOwned",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC_ChampionsOfWar",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorLootCollected_MinasIthil",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Tribal_MoreGhuls",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "CinematicLighting",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "InvasionLootAward",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MP_Gauntlet_Lvl_1",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MP_Gauntlet_Lvl_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MP_Gauntlet_Lvl_3",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_05_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_PostIntro_NeedToLoadMtnPass",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Gauntlet_Lvl_1",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Gauntlet_Lvl_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Gauntlet_Lvl_3",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_IsFriendlyOnlineArena",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AllowPres_ClashShowdown",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MoneywallActive_MtnPass",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_07_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_TinderIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Outpost_NorthWest",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_InstalledAndFortAssaultKickedOff",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_09",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_10",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_11",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_12",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_13",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_14",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_15",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_16",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_17",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_18",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_19",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_20",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_21",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_22",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_23",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_24",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_25",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_26",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_27",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_28",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_29",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_30",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_31",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_32",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_33",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_34",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_35",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_36",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_37",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_38",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_39",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_40",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_41",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_42",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_43",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_44",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_45",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_46",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_47",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_48",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_49",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_50",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_51",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_52",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GondorPickup_53",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorPickup_54",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag3_ExeValid",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SC_SpawnConditionActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Tribal_MoreGrog",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPassTower_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPassTower_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPassTower_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Island_NeedMoreFollowers",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginDuelGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GauntletTimerValue",
+                    "Type": "Float",
+                    "Float": "150.000000",
+                    "Int": "1125515264",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_BlockIntro",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_02_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_04_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "BladeSide1_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC_TribeSlaughter",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MI_GondoriansRescued",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "FortDefenseActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MoneywallActive_Island",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GoblinTutorialSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SpearmanAmbushTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "CageOpen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_02_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_NearFirstOutpostTutSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_05_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AllowPres_Fear",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMtnBarrows",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SM_Gauntlet_Lvl_1",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SM_Gauntlet_Lvl_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SM_Gauntlet_Lvl_3",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginExecutionGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Act2_MinasIthilUpdateComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MtnPass_FirstTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginTrialComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "ArenaEvent",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_01_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_ArchitectIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DEBUG_False",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPassMoneywallComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DrakeAttackInterval",
+                    "Type": "Float",
+                    "Float": "35.000000",
+                    "Int": "1108082688",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_PostFinale_NeedToLoadVolcano",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_02_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "BerserkersUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MinasItihlTower_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MinasItihlTower_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MinasItihlTower_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Intro_CavesToMinasIthilTransitionBackup",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "OnlineArenaTutorialSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "PlayerOwnedForts",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "2",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GondorAmbushers",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginRaidCheckpointGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_SecondRunStartTutSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TorvinPickup_09",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_ThrallIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DemoActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AmbEventChance",
+                    "Type": "Float",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_03_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SpiderPickup_Final",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MinasIthilIntroDrake",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "InvasionConquestPlayed",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_05_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_Barrows_Pickup_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_Barrows_Pickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_Barrows_Pickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Tribal_FewerTorches",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "LastFortConquered",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "2",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Tribal_FireArrows",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GauntletTimeRemaining",
+                    "Type": "Float",
+                    "Float": "120.000000",
+                    "Int": "1123024896",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "FDPerfCam_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "FDPerfCam_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_DLC4Active",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Act2_MtnPassUpdateComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtnTower_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMtnTower_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMtnTower_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCaptured_NorthWest",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AmbWarMtnPass",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Bruz_HierarchyTutorial_1_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "BladePickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "BladePickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "BladePickup_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "BladePickup_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "BladePickup_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DrakeAttacking",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "BerserkerAmbushTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Shelob1_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "OriginRaidCaragorsGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Island_01_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorLootCollected_SnowMtn",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC5_ShadowWar_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DesertFort",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_Barrows_Pickup_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_Barrows_Pickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Island_Barrows_Pickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_SniperIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorOpened_SnowMtn",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "HaedirUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC5_SW_Y3_VO_Dialog_Fired",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_PlayerOwned",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SM_Outpost_ArmyCamp",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MinasIthilReached",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginTrialGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMtn_Barrows_Pickup_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_Barrows_Pickup_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_Barrows_Pickup_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "LightingA",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "LightingB",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "LightingC",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "LightingD",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MI_Gauntlet_Lvl_1",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MI_Gauntlet_Lvl_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MI_Gauntlet_Lvl_3",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCaptured_Central",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AllowPres_Terrified",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC5_SW_Y2_IL_Dialog_Fired",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCapturedFirstTime_NorthWest",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Outpost_East",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Finale_WarningSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Tutorial_MtnPassArrival",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AmbWarIsland",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPass_03_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_ThrallIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AmbRareEventIncrement",
+                    "Type": "Float",
+                    "Float": "0.008000",
+                    "Int": "1006834287",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_FlintIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Gondor1_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Intro_AttackTutorialComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Desert_03_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_05_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "PostShadowWar",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_04_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MP_Outpost_Shelob",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_InvOrcAlive01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_InvOrcAlive02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_InvOrcAlive03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_InvOrcAlive04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_InvOrcAlive05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_InvOrcAlive06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_03_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "I_Outpost_Lighthouse",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MoneywallActive_SnowMtn",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DesertFort_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_StarterBundle",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorOpened_Island",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCaptured_East",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_Volcano_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_MtnPass_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginRaidCampGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Island_05_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_04",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_05",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_06",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_07",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorClue_SnowMtn_08",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_02_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_BlockOutpostCaptains_C",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_BlockOutpostCaptains_E",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_BlockOutpostCaptains_N",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_BlockOutpostCaptains_W",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DrakeAttackDuration",
+                    "Type": "Float",
+                    "Float": "25.000000",
+                    "Int": "1103626240",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_Lithlad",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_ExpanionPass",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AnySpiderPuzzleComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_ThrallIsLoyal",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_FixerIsLoyal",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Blade4_IsildurTauntCheck",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginBeastHuntComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DefendersUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MachineBKilled",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_ElfLoverIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "roleKitTest",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginExecutionComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_IslandForestState",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "2",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "CarnanSides_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_PostIntroStatueComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "StrictBeastRemoval",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OverlordsUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMtn_02_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag2_Cap1Lost",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_Finale_WarningSeen",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC5_SW_Y3_IL_Dialog_Fired",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_EditionSilver",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_ActiveWave01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_ActiveWave02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_ActiveWave03",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginRescueGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MtnPass_01_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TestBool",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_SniperIsLoyal",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "NeedShadowWarTut",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "ConditionalWorldSections_00",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "ConditionalWorldSections_01",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "ConditionalWorldSections_02",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Carnun2_HazardsCanDrop",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "BruzBrothers_GazDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Bruz_HierarchyTutorial_2_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Island_02_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "MtnPass_05_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_EditionMithril",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_SeenDesertTutorial",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_DiggerIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Carnan4_TreesState",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_BlockIntro",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AllowPres_RangedShowdown",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "AmbWarSnowMtn",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "CageQuest",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GauntletTimerTickValue",
+                    "Type": "Float",
+                    "Float": "10.000000",
+                    "Int": "1092616192",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_06_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MinasIthilIntroWarg",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag2_Cap2Lost",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_Forthog",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCapturedFirstTime_North",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "PlayerFailedLastAssault",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "TestInt",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "AllowPres_Hate",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "StoryState",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "210",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "EquippedChallengeGear",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "IslandFort",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_NumberOfOutpostsCaptured",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_PlayerOwned",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Desert_04_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_04_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_DisableCatalysts_MissionCritical",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SM_Outpost_FrozenLake",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_ArchitectIsFollower",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Volcano_04_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "InvasionVendettaActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Outpost_Central",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Intro_ReinitializeTowers",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC_StoryPass",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DoorOpened_MinasIthil",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_FixerIsDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_01_Type",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "Tribal_SlaveFlight",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SnowMtn_PlayerOwned",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_DisableCatalysts_IgnoreRaiseDead",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Carnun2_Complete_Carnun3_Incomplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OriginRaidSuppliesGComplete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "AmbWarDesert",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DE_Outpost_West",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag1_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMtn_04_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SotP_MissionActive",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Ratbag2_Cap3Lost",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_FinalShelobPuzzleVO",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "2",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "IntelOffered",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "VO_Gauntlet_Lvl_1",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "VO_Gauntlet_Lvl_2",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "VO_Gauntlet_Lvl_3",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC3_Island_FirstTime",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "DLC4_NumberOfOutpostsLeveledUp",
+                    "Type": "Int",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "OlogsUnlocked",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Rescue_Betrayal_Force",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SC_bArchers",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "V_Outpost_Ledge",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "MP_Outpost_Arena",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "V_Outpost_Camp",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCaptured_North",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Blade1_Complete",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "SnowMountainAssaultReady",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "GP_Blade1_DuelDefenderResult",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "Desert_01_Status",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "IslandBarrows",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC4_OPCaptured_West",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "I_Outpost_RiverRuins",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "1",
+                    "Bool": "True"
+                },
+                {
+                    "VariableRecord": "DLC3_MP_ActiveOverlordFight",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "VolcanoFort",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                },
+                {
+                    "VariableRecord": "SC_bRepairParty",
+                    "Type": "Bool",
+                    "Float": "0.000000",
+                    "Int": "0",
+                    "Bool": "False"
+                }
+            ]
+        }
+    ],
+    "QuestMgr": [
+        {
+            "LastQuestNumRetries": "0",
+            "": [
+                "Blade2",
+                "Blade15",
+                "Gondor_Side05"
+            ]
+        }
+    ]
+}
